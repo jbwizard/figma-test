@@ -1,0 +1,76 @@
+
+.logo{
+    max-width: 95px;
+    width: 100%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 48px;
+    /* or 160% */
+    letter-spacing: -0.02em;
+    color: #0A1B32;
+    margin-top: 37px;
+    margin-left:80px;
+}
+
+.logo-dot{
+    color: #A3DC00;
+}
+
+section{
+    display: inline-block;
+}
+
+.main-title{
+    max-width: 495px;
+    width: 100%;
+    font-family: 'Ramaraja';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 76px;
+    /* or 106% */
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    margin-top: 203px;
+    margin-left: 200px;
+}
+.main-text{
+    max-width: 583px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* or 160% */
+    letter-spacing: 0.02em;
+    color: #9A9A9A;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+.main-btn{
+    max-width: 152px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #A3DC00;
+    border-radius: 6px;
+    border: none;
+    margin-top: 50px;
+    margin-left:200px;
+}
+
+
+img{
+    max-width: 756px;
+    width: 100%;
+}
