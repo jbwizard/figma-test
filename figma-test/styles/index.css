@@ -37,7 +37,7 @@ li a{
     text-align: center;
     letter-spacing: 0.02em;
     color: #1B0A42;
-    margin-top: 80px;
+    margin-top: 48px;
     margin-left: 97px;
 }
 li a:hover{
@@ -114,6 +114,11 @@ section{
     background-color: grey;
 }
 
+.btns{
+    display: inline;
+    margin-left: 400px;
+}
+
 .btn-blue{
     background: #4F56F1;
 }
@@ -133,8 +138,6 @@ section{
     border-radius: 6px;
     border:none;
     padding: 18px 31px 18px 31px;
-    margin-top: 30px;
-    margin-right: 68px;
 }
 
 .sign-up:hover{
@@ -159,8 +162,6 @@ section{
 .sign-in:hover{
     color:grey;
 }
-
-
 
 
 
