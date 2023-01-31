@@ -22,7 +22,7 @@
     color: #4F56F1;
 }
 
-.nav{
+div{
     display: inline-block;
 }
 
@@ -39,7 +39,6 @@ li a{
     color: #1B0A42;
     margin-top: 80px;
     margin-left: 97px;
-    display: inline-block;
 }
 li a:hover{
     color: grey;
@@ -117,10 +116,9 @@ section{
 
 .btn-blue{
     background: #4F56F1;
-
 }
 
-.sign-btn{
+.sign-up{
     max-width: 120px;
     width: 100%;
     font-family: 'Roboto';
@@ -135,10 +133,11 @@ section{
     border-radius: 6px;
     border:none;
     padding: 18px 31px 18px 31px;
-    display:-ms-grid;
     margin-top: 30px;
+    margin-right: 68px;
 }
-.sign-btn:hover{
+
+.sign-up:hover{
     background-color: grey;
 }
 
@@ -154,19 +153,14 @@ section{
     color: #1B0A42;
     border: none;
     background:none;
+    margin-right: 40px;
+    margin-top: 48px;
 }
 .sign-in:hover{
     color:grey;
 }
 
-/**/
 
-img{
-    /* Frame */
-    position: absolute;
-    width: 653px;
-    height: 604px;
-    left: 853px;
-    top: 186px;
-}
+
+
 
