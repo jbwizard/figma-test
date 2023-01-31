@@ -1,0 +1,46 @@
+div{
+    display: inline-block;
+}
+
+.dot{
+    color:#824FF1
+}
+
+.btn-purple{
+    background-color: #824FF1;
+}
+
+.sign-in{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    border: none;
+    background: none;
+}
+
+.sign-up{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    background: #824FF1;
+    border-radius: 6px;
+    border: none;
+    padding: 18px 31px 18px 31px;
+}
+
+.btns{
+    margin-top: 30px;
+    margin-left: 400px;
+}

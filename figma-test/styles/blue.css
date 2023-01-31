@@ -1,0 +1,57 @@
+div{
+    display: inline-block;
+}
+
+.logo-dot-blue{
+    color: #4F56F1;
+}
+
+.btns{
+    display: inline;
+    margin-left: 400px;
+}
+
+.btn-blue{
+    background: #4F56F1;
+}
+
+.sign-up{
+    max-width: 120px;
+    width: 100%;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border-radius: 6px;
+    border:none;
+    padding: 18px 31px 18px 31px;
+}
+
+.sign-up:hover{
+    background-color: grey;
+}
+
+.sign-in{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #1B0A42;
+    border: none;
+    background:none;
+    margin-right: 40px;
+    margin-top: 48px;
+}
+.sign-in:hover{
+    color:grey;
+}
+
