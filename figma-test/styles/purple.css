@@ -1,3 +1,7 @@
+section{
+    display: inline-block;
+}
+
 div{
     display: inline-block;
 }
@@ -43,4 +47,16 @@ div{
 .btns{
     margin-top: 30px;
     margin-left: 400px;
+}
+
+.parent{
+    position:relative;
+    top: 0;
+    left: 0;
+}
+
+.img2{
+    position: absolute;
+    top: 0;
+    left: 0;
 }
